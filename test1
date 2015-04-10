@@ -1,7 +1,0 @@
-sum+=A[j];
-if(sum>maximum)
-maximum=sum;
-}
-}
-return maximum;
-}
